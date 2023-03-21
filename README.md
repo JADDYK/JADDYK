@@ -1,6 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Welcome+to+JADDYK's+Github+✨ )](https://git.io/typing-svg) 
 ### 🔭 I'm currently a student in SUSTech
-### :fireworks: I'm learing Operating System, Software Engineering, Computer Vision, Distributed and Cloud Computing.
+### :fireworks: I'm learing OS, SE, CV, Distributed and Cloud Computing.
 ### :dart: I'm interested in Trusted Environment Execution and Computer Architecture.
 
 <!--
