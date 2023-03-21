@@ -1,4 +1,7 @@
-### Hi there 👋
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Welcome+to+JADDYK's+Github+✨ )](https://git.io/typing-svg) 
+### 🔭 I'm currently a student in SUSTech
+### :fireworks: I'm learing Operating System, Software Engineering, Computer Vision, Distributed and Cloud Computing.
+### :dart: I'm interested in Trusted Environment Execution and Computer Architecture.
 
 <!--
 **JADDYK/JADDYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JADDYK&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JADDYK&layout=compact&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
