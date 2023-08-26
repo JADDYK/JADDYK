@@ -1,5 +1,5 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Welcome+to+JADDYK's+Github+✨ )](https://git.io/typing-svg) 
-### 🔭 I'm currently a junior student in SUSTech
+### 🔭 I'm a junior student in SUSTech
 ### :fireworks: I'm working on operating system.
 ### :dart: I'm interested in Trusted Environment Execution and Computer Architecture.
 
