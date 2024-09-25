@@ -1,11 +1,11 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Welcome+to+JADDYK's+Github+✨ )](https://git.io/typing-svg) 
 ### 🔭 I'm a master student in SUSTech.
 ### :fireworks: I'm working on System Security.
-### 🌱 Flee as a bird to your mountain.
 <!--
 **JADDYK/JADDYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### :dart: I'm interested in Trusted Environment Execution.
 Here are some ideas to get you started:
+### 🌱 Flee as a bird to your mountain.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
